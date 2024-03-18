@@ -1,5 +1,5 @@
 ## Java Digital Clock Project
-This is a simple digital clock project implemented in Java. The project uses Java Swing for the graphical user interface and demonstrates the basic concepts of handling time and updating UI components.
+This is a simple digital clock project implemented in Java. The project uses Java Swing for the graphical user interface and demonstrates the basic concepts of handling time and updating components.
 
 ## Features
 # Displays the current time in a digital format.
@@ -29,8 +29,6 @@ java DigitalClock
 # The time updates in real-time.
 # Close the window to exit the application.
 
-## Contributing
-Contributions are welcome! If you find a bug or have an enhancement in mind, feel free to open an issue or create a pull request.
 
 ## Fork the project.
 # Create your feature branch: git checkout -b feature/your-feature.
