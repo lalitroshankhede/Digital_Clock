@@ -2,9 +2,9 @@
 This is a simple digital clock project implemented in Java. The project uses Java Swing for the graphical user interface and demonstrates the basic concepts of handling time and updating components.
 
 ## Features
-# Displays the current time in a digital format.
-# Updates the time in real-time.
-# Simple and intuitive user interface.
+ Displays the current time in a digital format. 
+ Updates the time in real-time.
+ Simple and intuitive user interface.   
 
 ## Prerequisites
 Make sure you have the following installed on your machine:
